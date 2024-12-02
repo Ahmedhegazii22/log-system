@@ -1,0 +1,29 @@
+a{text-decoration: none;
+transition: all 0s;}
+#logIn h1{
+    color: #17A2B8;
+}
+
+.bg-main{
+    background-color: #24353F;
+ 
+}
+input{
+    color: white !important;
+    background-color: transparent !important;
+}
+input::placeholder{
+    color: gray !important;
+}
+#logInButton{
+    color: #17A2B8;
+    border: solid #17A2B8;
+    transition: all .5s ease-in-out;
+}
+#logInButton:hover{
+    background-color: #17A2B8;
+    color: white;
+}
+a:hover{
+    text-decoration:solid white;
+}
